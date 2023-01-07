@@ -1,7 +1,7 @@
-# BMC DWP DASHBOARD
- DWP Dashboard with Clean UI
+# Homepage
+ Dashboard with Clean UI
  - Responsive
- - Easy Adaptable with BMC DWP
+ - Easy Adaptable
  - Dynamic
  - Low Code 
  
